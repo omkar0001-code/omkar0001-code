@@ -2,7 +2,7 @@
 - 👀 I’m interested in Programming and Drones
 - 🌱 I’m currently specializing myself in Electronics and Computer Science
 - 💞️ I’m looking to collaborate to teams who love to code and build amazing things.
-- 📫 How to reach me ...
+- 📫 How to reach me ... 
 - 
 
 <!---
